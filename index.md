@@ -1,4 +1,3 @@
-# 欢迎来到Ziwei Li的个人主页
 ## Welcome to Ziwei Li's Personal Page
 E-mail: zwli19@fudan.edu.cn
 
